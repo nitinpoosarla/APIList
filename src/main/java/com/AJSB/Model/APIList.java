@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Document(collection ="apilist")
+@Document(collection ="allprodcon")
 public class APIList {
 	
 	private String no;
